@@ -29,6 +29,6 @@ I also had to meet the following acceptance criteria:
 
 Below is a screen shot of the working application after my task was finished, along with a URL link to the live application.
 
-![screen cap](screencap.png)
+![screen cap](screencap.jpg)
 
-[See it in action Here!](index.html)
+[See it in action Here!](https://brienbarr.github.io/Horiseon-Refractor/)
